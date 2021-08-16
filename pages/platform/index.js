@@ -14,24 +14,11 @@ import {
     PageSection,
     Content,
     PageH2Minor,
-    Content_left,
-    PageH2Minor5,
     Img,
     ImgBanner, FlexBox,
 } from '../../components/Styles';
 import { FadeInLeft, FadeIn } from '../../components/Animations';
-import styled from "styled-components";
 
-const Ul = styled.ul`
-  // list-style-type: none;
-  padding: 0 0.75rem;
-  list-style-image: url('cached/iTrazo_Bullet_Red.png');
-float: left;
-  li {
-  
-    margin: 0.8rem 0.3rem;
-  }
-`;
 
 const Platform= () => (
     <PageBody>

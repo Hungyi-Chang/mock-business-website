@@ -30,7 +30,7 @@
     "react-slick": "^0.25.2",
     "react-sticky-el": "^1.1.1",
     "react-transition-group": "^4.3.0",
-    "serverless-next.js": "^1.9.3",
+    "serverless-next.js": "^1.15.0-alpha.2",
     "styled-components": "^5.0.1"
   },
   "devDependencies": {
