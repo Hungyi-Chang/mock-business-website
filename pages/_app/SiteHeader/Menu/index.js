@@ -1,7 +1,4 @@
 /**
- * menu button by css
- *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 

@@ -7,7 +7,6 @@
  * NOTE: we use window.pageYOffset rather tthan document.documentElement.scrollTop
  * as it support more browsers
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 

@@ -1,7 +1,6 @@
 /**
  * Industries page page contents
  *
- * @author Beier Nie
  * @version 1.0.0
  */
 import React from 'react';

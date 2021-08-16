@@ -1,7 +1,6 @@
 /**
  * Site root. will navigation to home
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 import React from 'react';

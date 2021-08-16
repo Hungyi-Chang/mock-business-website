@@ -1,7 +1,6 @@
 /**
  * Brand logo in header
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 

@@ -1,7 +1,6 @@
 /**
  * Site Footer
  *
- * @author Dapeng Zhang
  * @version 1.0.1
  */
 import React from 'react';

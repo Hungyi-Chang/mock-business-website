@@ -1,7 +1,6 @@
 /**
  * This is the copyright notice
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 

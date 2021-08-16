@@ -1,7 +1,4 @@
 /**
- * Site Header.
- * On mobile view navigation will show as dropdown
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 import React,{useState} from 'react';
