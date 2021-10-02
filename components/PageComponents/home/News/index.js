@@ -1,7 +1,6 @@
 /**
  * Home Page news section structure
  *
- * @author Dapeng Zhang, Beier Nie
  * @version 1.0.0
  */
 import React from 'react';

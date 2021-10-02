@@ -5,7 +5,6 @@
  * When click outside the dropdown, it will collapse automatically.
  * This feature depends on DOMClickListener
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 import React, { useState } from 'react';

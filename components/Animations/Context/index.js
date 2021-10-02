@@ -5,7 +5,6 @@
  * The provide is in /Page/_app with the value bound with a single window.onscroll event listener
  * The consumer is in /components/Animations
  *
- * @author Dapeng Zhang
  * @version: 1.0.0
  */
 import React from 'react';

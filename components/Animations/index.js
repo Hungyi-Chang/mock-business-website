@@ -5,7 +5,6 @@
  *
  * To animate an element, just wrap it with a component here.
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 

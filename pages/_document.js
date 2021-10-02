@@ -2,7 +2,6 @@
 /**
  * Here we define the head of the html file
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 

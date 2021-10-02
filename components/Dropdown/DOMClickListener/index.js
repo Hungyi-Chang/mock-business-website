@@ -5,7 +5,6 @@
  * This component is used in the Dropdown list. When click outside the list,
  * the list should collapse.
  *
- * @author Dapeng Zhang
  * @version 1.0.0
  */
 import React from 'react';
